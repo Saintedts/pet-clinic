@@ -3,6 +3,7 @@
 
 Микросервис для хранения и обновления информации о собаках
 
+* https://pet-clinic-6pji.onrender.com
 
 * To run app: uvicorn main:app --host 0.0.0.0 --port 8000
 
